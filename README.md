@@ -1,11 +1,6 @@
 <!-- tolgaOzen/tolgaOzen is a special repository that shows this README on the GitHub profile -->
 
-🚀 Building developer-first infrastructure and scalable backend systems.
-
-- 🧠 Focus: High-performance backend engineering, infrastructure as code, and developer tooling.
-- 🛠️ Technologies: Go, PostgreSQL, Kubernetes, Pulumi, Terraform, Docker, Redis, Kafka.
-- 📈 Interests: Distributed systems, event-driven architecture, observability, cloud-native ecosystems.
-- 🤝 Open to: Open-source collaboration, system design challenges, and DevEx improvements.
+Building high-performance systems and cloud-native infrastructure.
 
 <a href="https://trendshift.io/developers/6952" target="_blank">
   <img src="https://trendshift.io/api/badge/developers/6952" alt="tolgaOzen | Trendshift" width="250" height="55"/>
